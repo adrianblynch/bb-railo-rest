@@ -1,0 +1,5 @@
+component {
+
+	THIS.name = "backbone";
+
+}
