@@ -1,7 +1,7 @@
 component {
 
 	APPLICATION.users = APPLICATION.users ?: [
-		{id = 1, firstName = "Adrian", lastName = "Lynch", dob: "1978-02-20"},
+		{id = 1, firstName = "Adrian", lastName = "Lynch", dob: "1901-12-12"},
 		{id = 2, firstName = "Anthony", lastName = "Cull", dob: null}
 	];
 
